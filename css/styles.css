@@ -6139,6 +6139,9 @@ button.bg-light:focus {
 .bg-dark {
   background-color: #1F1F1F !important;
 }
+.bg-roadmap {
+  background-color: #8a8371 !important;
+}
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
